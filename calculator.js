@@ -1,7 +1,7 @@
 class calculator {
 	add(x, y) {
 		// TODO: implement add method
-		return x+y
+		return x+y;
 	}
 
 	subtract(x, y) {
