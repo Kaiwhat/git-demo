@@ -1,17 +1,18 @@
 class calculator {
-	add(x, y) {
-		// TODO: implement add method
-	}
+  add(x, y) {
+    // TODO: implement add method
+  }
 
-	subtract(x, y) {
-		// TODO: implement subtract method
-	}
+  subtract(x, y) {
+    // TODO: implement subtract method
+    return x - y;
+  }
 
-	multiply(x, y) {
-		// TODO: implement multiply method
-	}
+  multiply(x, y) {
+    // TODO: implement multiply method
+  }
 
-	divide(x, y) {
-		//TODO: implement divide method
-	}
+  divide(x, y) {
+    //TODO: implement divide method
+  }
 }
