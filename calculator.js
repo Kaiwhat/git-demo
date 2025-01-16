@@ -8,6 +8,7 @@ class calculator {
 	}
 
 	multiply(x, y) {
+		return x*y;
 		// TODO: implement multiply method
 	}
 
