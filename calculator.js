@@ -9,12 +9,13 @@ class calculator {
     return x - y;
   }
 
-	multiply(x, y) {
-		return x*y;
-		// TODO: implement multiply method
-	}
+  multiply(x, y) {
+    return x * y;
+    // TODO: implement multiply method
+  }
 
   divide(x, y) {
     //TODO: implement divide method
+    return x / y;
   }
 }
